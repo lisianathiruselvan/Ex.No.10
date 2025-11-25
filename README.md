@@ -2,7 +2,7 @@
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date:
-## Reg. No. 212222240101
+## Reg. No. 212222240053
 
 ## Aim:
 To demonstrate how prompt patterns such as query decomposition, decision-making prompts, answer engineering, semantic filtering, fact-check lists, tail generation, and menu-based prompting can be used to generate structured, creative, and high-quality content such as reports, stories, and case studies. The experiment aims to show how prompt structure directly affects output coherence, accuracy, and depth.
